@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * mul - multiplies two intergers
- * @a: function parameter 1
- * @b: function parameter 2
- * Return: return void
+ * print_numbers - print numbers
+ * Return: void
  */
 
-int mul(int a, int b)
+void print_numbers(void)
 {
-return (a * b);
-
+int i;
+for (i = 0; i < 10; i++)
+	_putchar(i + '0');
+_putchar('\n');
 }
