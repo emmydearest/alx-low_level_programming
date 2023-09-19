@@ -1,1 +1,1 @@
-Positive anything is better than negative nothing task o
+project for variable task
